@@ -1,6 +1,6 @@
 # Hotel Landing Page
 
-Website Hotel Landing Page merupakan tugas project untuk memenuhi persyaratan kelulusan pada mata kuliah Rekayasa Perangkat Lunak.<br> 
+Website Hotel Landing Page merupakan tugas project untuk memenuhi persyaratan kelulusan pada mata kuliah Rekayasa Perangkat Lunak. 
 Website ini dibangun menggunakan framework PHP Codeigniter 3 dengan model HMVC dan framework CSS Bootstrap 3.
 
 ### Fitur Website
@@ -13,13 +13,13 @@ Website ini dibangun menggunakan framework PHP Codeigniter 3 dengan model HMVC d
 * [x] Fitur Cetak PDF pada Laporan Data Fasilitas Kamar Hotel.
 
 ### Demo
-Link website : <a href=”https://hotel-landing-page.000webhostapp.com/”>user</a>
-Link admin : <a href=”https://hotel-landing-page.000webhostapp.com/login”>admin</a>
+Link website : <a href=”https://hotel-landing-page.000webhostapp.com/”>user</a><br>
+Link admin : <a href=”https://hotel-landing-page.000webhostapp.com/login”>admin</a><br>
 Untuk database, username dan password, hub : triagung128@gmail.com
 
 ## Author
 •	**Tri Agung Susilo**
-•	UI Template by <a href=” https://uicookies.com/”>uiCookies</a>
+•	UI Template by <a href=”https://uicookies.com/”>uiCookies</a>
 
 Jangan lupa untuk Follow dan ★ Star
 
