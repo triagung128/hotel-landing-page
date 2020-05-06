@@ -13,13 +13,13 @@ Website ini dibangun menggunakan framework PHP Codeigniter 3 dengan model HMVC d
 * [x] Fitur Cetak PDF pada Laporan Data Fasilitas Kamar Hotel.
 
 ### Demo
-Link website : <a href=”https://hotel-landing-page.000webhostapp.com/”>user</a><br>
-Link admin : <a href=”https://hotel-landing-page.000webhostapp.com/login”>admin</a><br>
+Link website : <a href="https://hotel-landing-page.000webhostapp.com/">user</a><br>
+Link admin : <a href="https://hotel-landing-page.000webhostapp.com/login">admin</a><br>
 Untuk database, username dan password, hub : triagung128@gmail.com
 
 ## Author
 •	**Tri Agung Susilo**
-•	UI Template by <a href=”https://uicookies.com/”>uiCookies</a>
+•	UI Template by <a href="https://uicookies.com/">uiCookies</a>
 
 Jangan lupa untuk Follow dan ★ Star
 
