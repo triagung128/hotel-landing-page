@@ -18,8 +18,9 @@ Link admin   : <a href="https://hotel-landing-page.000webhostapp.com/login">admi
 Untuk database, username dan password, hub : triagung128@gmail.com
 
 ## Author
-•	**Tri Agung Susilo**<br><br>
+•	**Tri Agung Susilo** <br>
+Jangan lupa untuk Follow dan ★ Star <br><br>
 •	UI Template by <a href="https://uicookies.com/">uiCookies</a>
 
-Jangan lupa untuk Follow dan ★ Star
+
 
